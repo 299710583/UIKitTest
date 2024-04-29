@@ -79,9 +79,15 @@ class HomeViewController: UIViewController {
     
     
     override func viewDidLoad() {
+        super.viewDidLoad()
         print("hahha")
         self.view.backgroundColor = UIColor.white
-        super.viewDidLoad()
+        
+        ///fsdfsffdsfs
+        
+
+
+        //fsdfsdfsdfsfd
         // Do any additional setup after loading the view.
         let firstView = UIView(frame: CGRect(x: 0, y: 0, width: 100, height: 100))
         self.view.addSubview(firstView)
