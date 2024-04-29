@@ -13,6 +13,7 @@
 		DE25AEE82BDDECFF0015852C /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE25AEE72BDDECFF0015852C /* MyCollectionViewCell.swift */; };
 		DE3B045C2BDDFC28004528D2 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3B045B2BDDFC28004528D2 /* SearchViewController.swift */; };
 		DE3B04B62BDE4A93004528D2 /* GestureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3B04B52BDE4A93004528D2 /* GestureViewController.swift */; };
+		DE3B05482BDF7509004528D2 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3B05472BDF7509004528D2 /* TestViewController.swift */; };
 		DEDD1F452BD929BC00C74F9C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEDD1F442BD929BC00C74F9C /* AppDelegate.swift */; };
 		DEDD1F472BD929BC00C74F9C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEDD1F462BD929BC00C74F9C /* SceneDelegate.swift */; };
 		DEDD1F492BD929BC00C74F9C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEDD1F482BD929BC00C74F9C /* ViewController.swift */; };
@@ -32,6 +33,7 @@
 		DE3B045B2BDDFC28004528D2 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		DE3B04B32BDE42D1004528D2 /* UIKitTest copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "UIKitTest copy-Info.plist"; path = "/Users/cengwei/Desktop/learning/UIKitTest/UIKitTest copy-Info.plist"; sourceTree = "<absolute>"; };
 		DE3B04B52BDE4A93004528D2 /* GestureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureViewController.swift; sourceTree = "<group>"; };
+		DE3B05472BDF7509004528D2 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		DEDD1F412BD929BC00C74F9C /* UIKitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIKitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEDD1F442BD929BC00C74F9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DEDD1F462BD929BC00C74F9C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 				DE25AEE72BDDECFF0015852C /* MyCollectionViewCell.swift */,
 				DE3B045B2BDDFC28004528D2 /* SearchViewController.swift */,
 				DE3B04B52BDE4A93004528D2 /* GestureViewController.swift */,
+				DE3B05472BDF7509004528D2 /* TestViewController.swift */,
 			);
 			path = UIKitTest;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 				DE3B045C2BDDFC28004528D2 /* SearchViewController.swift in Sources */,
 				DEEB7F122BDA84F800A7BAAC /* HomeViewController.swift in Sources */,
 				DEEB7E5E2BDA6AB200A7BAAC /* LoginViewController.swift in Sources */,
+				DE3B05482BDF7509004528D2 /* TestViewController.swift in Sources */,
 				DE25AEE22BDBA7750015852C /* MineViewController.swift in Sources */,
 				DEDD1F492BD929BC00C74F9C /* ViewController.swift in Sources */,
 				DEDD1F452BD929BC00C74F9C /* AppDelegate.swift in Sources */,
